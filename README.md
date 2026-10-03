@@ -35,7 +35,7 @@ Text after the change:
 
 1. Clone this repository into your skills folder:
 
-       git clone https://github.com/0xpili/simplified-technical-english.git ~/.claude/skills/simplified-technical-english
+       git clone https://github.com/TrenchesFund/simplified-technical-english.git ~/.claude/skills/simplified-technical-english
 
 2. Tell Claude to write or examine technical text in STE.
 3. Claude finds the skill and obeys the rules.
